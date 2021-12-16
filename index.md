@@ -1,3 +1,5 @@
+# Simulating Language
+
 This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2021/2022. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
 
 
@@ -9,11 +11,11 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and [Matt Spike](https://sites.google.com/site/matspike/) is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams.
+[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and [Matt Spike](https://sites.google.com/site/matspike/) is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
 
 ## Structure of the course
 
-Each week there is a set reading (which you do in your own time), a lecture (in person), and then a programming practical (which you attempt in your own time, and get help with in the drop-in labs).
+The course is based around a series of ten lectures, which take place one per week. Each lecture is followed by a programming practical, which you attemt in your own time, and get help with in a drop-in lab session. Each lecture may have readings associated with it.
 
 ### Readings
 
@@ -54,87 +56,86 @@ The two assignments involve a mix of practical work and written sections and hav
 
 The assignments will be available to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline.
 
-*IMPORTANT* we will not be answering any questions about the assessments! This might seem harsh, but our experience from previous years has been that answering questions about the assessments after they have been handed out and before they have been returned causes very serious problems, both in terms of workload for tutors and in terms of being fair for everyone working on the assessments. For example, it strongly disadvantages anyone who starts working on the assessments early, before all the questions have been answered. The only practical and equitable way of dealing with this is to have a perfectly level playing field and not answer any questions until all the assessments have been completed. Think about them more like take-home exams.
+*IMPORTANT* we will not be answering any questions about the assessments! This might seem harsh, but we have learned from painful experience that answering questions about the assessments after they have been handed out causes very serious problems, both in terms of workload for tutors and in terms of being fair for everyone working on the assessments. For example, it strongly disadvantages anyone who starts working on the assessments early, before all the questions have been answered. The only practical and equitable way of dealing with this is to have a perfectly level playing field and not answer any questions until all the assessments have been completed. Think about them more like take-home exams.
 
 ## Course Materials
 
-### Week 1 (commencing 17th January): Introduction
+### 1. Introduction
 
-- Pre-lecture reading: [Introduction to modelling](simlang_reading_wk2.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture1.pdf)
+- Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)
+- [Lecture slides](lecture_slides/simlang2022_lecture1.pdf)
+- Programming practical: [Introduction to Python](simlang_lab_1.md)
 
-### Week 2 (commencing 24th January): Concept learning
+### 2. Concept learning
 
-- Programming practical: [Introduction to Python](simlang_lab_wk2.md)
-- Pre-lecture reading: [More on Bayes' Rule](simlang_reading_wk3.md)
+- Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture2.pdf)
-
-### Week 3 (commencing 31st January): Frequency learning and regularisation
-
 - Programming practical: [Word learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2.ipynb)
 - Answers to Practical: [Word learning answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2_answered.ipynb)
 
-- No new reading - catch up on the week 2 readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the week 2 lecture, for yourself.
+### 3. Frequency learning and regularisation
+
+- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/simlang2021_lecture3.pdf)
-
-### Week 4 (commencing 7th February): Iterated Learning
-
 - Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
-- Post-lecture reading: [Bayesian iterated learning](simlang_reading_wk5.md)
+
+### 4. Iterated Learning
+
+- Post-lecture reading: [Bayesian iterated learning](simlang_reading_4.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture4.pdf)
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
-
-### Week 5 (commencing 14th February): Communication and the RSA model
 - Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb)
 - Answers to practical [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
   - [notebook](https://github.com/centre-for-language-evolution/simlang2021/blob/master/LogExplainer.ipynb)
-- Reading: [The Rational Speech Act model](simlang_reading_wk6.md)
-  - [Lecture slides](lecture_slides/simlang2021_lecture5.pdf)
 
-### Free week (commencing 21st February): no classes
+### 5. Communication and the RSA model
 
-Catch up, read ahead, start the first assessment, or have a rest.
-
-### Week 6 (commencing 28th February): Compositionality
-
+- Reading: [The Rational Speech Act model](simlang_reading_5.md)
+- [Lecture slides](lecture_slides/simlang2021_lecture5.pdf)
 - Programming practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5.ipynb)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5_answered.ipynb)
-- Reading: [The evolution of compositionality](simlang_reading_wk7.md)
+
+### 6. Compositionality
+
+- Reading: [The evolution of compositionality](simlang_reading_6.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture6.pdf)
-
-
-### Week 7 (commencing 7th March): Hierarchical models and learning the prior
-
 - Programming practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6.ipynb)
 - Answers to Practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
-- Reading: [Hierarchical models and learning to learn](simlang_reading_wk8.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
 
-### Week 8 (commencing 14th March): Innateness and culture
+### 7. Hierarchical models and learning the prior
+
+- Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
+- [Lecture slides](lecture_slides/simlang2021_lecture7.pdf)
 - Programming practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7.ipynb)
 - Answers to Practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7_answered.ipynb)
-- Reading: [Innateness and culture in the evolution of language](simlang_reading_wk9.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture8.pdf)
 
-### Week 9 (commencing 21st March): Adding biological evolution to our models
+### 8. Innateness and culture
+
+- Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
+- [Lecture slides](lecture_slides/simlang2021_lecture8.pdf)
 - Programming practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8.ipynb)
 - Answers to Practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8_answered.ipynb)
-- Reading: [Gene-culture co-evolution](simlang_reading_wk10.md)
+
+
+### 9. Biological and cultural evolution together
+
+- Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture9.pdf)
-
-
-### Week 10 (commencing 28th March): This view of language
 - Programming practical: [Co-evolutionary modelling](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab9.ipynb)
-- Reading: [Overview of this view of language](simlang_reading_wk11.md)
+
+
+### 10. This view of language
+
+- Reading: [Overview of this view of language](simlang_reading_10.md)
 - [Lecture slides](lecture_slides/simlang2021_lecture10.pdf)
 
 

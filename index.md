@@ -60,6 +60,8 @@ The assignments will be available to start working on after the last lab that re
 
 ## Course Materials
 
+Dates for lectures and labs shown in brackets.
+
 ### 1. Introduction
 
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)

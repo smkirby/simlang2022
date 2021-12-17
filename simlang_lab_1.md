@@ -23,10 +23,10 @@ You should only need to do this downloading of the notebook files once, unless I
 
 # Programming tasks for today's lab
 
-You will now see several notebook files (files whose name ends in ".ipynb"). The main part of today's lab is the file lab1.ipynb - open that file by clicking on it, it'll open up a new noteable window containing more explanatory text that you can work through. Your main task for labs this week is to work through that notebook! If you need help you can come to drop-in labs on Teams and get one-on-one help, but we have also made some extra notebooks available which will provide you some extra help:
-- lab1_notebook_intro.pynb is a brief introduction to notebooks, and showcases some of the nice stuff you can do with formatting text etc.
-- lab1_answered.ipynb (when released) provides a model answer for the lab1 notebook - we have completed the code cells for you so you can see what we were expecting you to do.
-- lab1_walkthrough.ipynb (when released) provides a very detailed explanation of the logic behind the model answers for the "Functions" section of the notebook.
+You will now see several notebook files (files whose name ends in ".ipynb"). The main part of today's lab is the file [lab1.ipynb](https://github.com/smkirby/simlang2022/blob/master/lab1.ipynb) - open that file by clicking on it, it'll open up a new noteable window containing more explanatory text that you can work through. Your main task for labs this week is to work through that notebook! If you need help you can come to drop-in labs on Teams and get one-on-one help, but we have also made some extra notebooks available which will provide you some extra help:
+- [lab1_notebook_intro.ipynb](https://github.com/smkirby/simlang2022/blob/master/lab1_notebook_intro.ipynb) is a brief introduction to notebooks, and showcases some of the nice stuff you can do with formatting text etc.
+- [lab1_answered.ipynb](https://github.com/smkirby/simlang2022/blob/master/lab1_answered.ipynb) provides a model answer for the lab1 notebook - we have completed the code cells for you so you can see what we were expecting you to do.
+- [lab1_walkthrough.ipynb](https://github.com/smkirby/simlang2022/blob/master/lab1_walkthrough.ipynb) provides a very detailed explanation of the logic behind the model answers for the "Functions" section of the notebook.
 
 # Re-use
 

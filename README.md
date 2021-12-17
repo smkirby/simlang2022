@@ -1,6 +1,6 @@
 # Simulating language, academic year 2021-2022
 
-Full content for the course (readings, lecture slides etc) in a readable format will appear at https://smkirby.github.io/2022/, you can find the markdown source for those pages on the gh-pages branch.
+Full content for the course (readings, lecture slides etc) in a readable format will appear at https://smkirby.github.io/simlang2022/, you can find the markdown source for those pages on the gh-pages branch.
 
 The master branch is used purely for sharing code (python notebooks) which can be downloaded to noteable by following instructions on the course practicals pages.
 

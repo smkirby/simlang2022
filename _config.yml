@@ -1,0 +1,10 @@
+theme: jekyll-theme-midnight
+title: Simulating Language
+description: Academic year 2020-2021
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md

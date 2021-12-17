@@ -19,6 +19,8 @@ To do that:
 6. There is a button labelled `+GitRepo`. Click on that and enter this web address for the Git Repository URL: `https://github.com/smkirby/simlang2022`. You can leave all the other fields at their defaults or blank.
 7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2022`
 
+You should only need to do this downloading of the notebook files once, unless I update any of the files during the semester, in which case I'll tell you. However, if you mess up any local copy of a notebook and want to return it back to the original, just delete or rename your notebook and then go through steps 6 and 7 again to restore the original versions.
+
 # Programming tasks for today's lab
 
 You will now see several notebook files (files whose name ends in ".ipynb"). The main part of today's lab is the file lab1.ipynb - open that file by clicking on it, it'll open up a new noteable window containing more explanatory text that you can work through. Your main task for labs this week is to work through that notebook! If you need help you can come to drop-in labs on Teams and get one-on-one help, but we have also made some extra notebooks available which will provide you some extra help:

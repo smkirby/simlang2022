@@ -68,32 +68,32 @@ Dates for lectures and labs shown in brackets.
 ### 1. Introduction
 
 - Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)
-- [Lecture slides](lecture_slides/simlang2022_lecture1.pdf) (21/1)
-- Programming practical: [Introduction to Python](simlang_lab_1.md) (24/1; 26/1; 27/1)
+- [Lecture slides](lecture_slides/simlang2022_lecture1.pdf) (Jan 21)
+- Programming practical: [Introduction to Python](simlang_lab_1.md) (Jan 24, 26, 27)
 
 ### 2. Concept learning
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture2.pdf) (28/1)
-- Programming practical: [Word learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2.ipynb) (31/1; 2/2; 3/2)
+- [Lecture slides](lecture_slides/simlang2021_lecture2.pdf) (Jan 28)
+- Programming practical: [Word learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2.ipynb) (Jan 31, Feb 2, 3)
 - Answers to Practical: [Word learning answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab2_answered.ipynb)
 
 ### 3. Frequency learning and regularisation
 
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
-- [Lecture slides](lecture_slides/simlang2021_lecture3.pdf) (4/2)
-- Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb) (7/2; 9/2; 10/2)
+- [Lecture slides](lecture_slides/simlang2021_lecture3.pdf) (Feb 4)
+- Programming practical: [Frequency learning and regularisation](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3.ipynb) (Feb 7, 9, 10)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab3_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 ### 4. Iterated Learning
 
 - Post-lecture reading: [Bayesian iterated learning](simlang_reading_4.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture4.pdf) (11/2)
+- [Lecture slides](lecture_slides/simlang2021_lecture4.pdf) (Feb 11)
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
-- Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb) (14/2; 16/2; 17/2)
+- Programming practical: [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4.ipynb) (Feb 14, 16, 17)
 - Answers to practical [Bayesian iterated learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts
@@ -103,15 +103,15 @@ Dates for lectures and labs shown in brackets.
 ### 5. Communication and the RSA model
 
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture5.pdf) (18/2)
-- Programming practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5.ipynb) (28/2; 2/3; 3/3)
+- [Lecture slides](lecture_slides/simlang2021_lecture5.pdf) (Feb 18)
+- Programming practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5.ipynb) (Feb 28, Mar 2, 3)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab5_answered.ipynb)
 
 ### 6. Compositionality
 
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture6.pdf) (4/3)
-- Programming practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6.ipynb) (7/3; 9/3; 10/3)
+- [Lecture slides](lecture_slides/simlang2021_lecture6.pdf) (Mar 4)
+- Programming practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6.ipynb) (Mar 7, 9, 10)
 - Answers to Practical: [Compositionality](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
@@ -119,29 +119,29 @@ Dates for lectures and labs shown in brackets.
 ### 7. Hierarchical models and learning the prior
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture7.pdf) (11/3)
-- Programming practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7.ipynb) (14/3; 16/3; 17/3)
+- [Lecture slides](lecture_slides/simlang2021_lecture7.pdf) (Mar 11)
+- Programming practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7.ipynb) (Mar 14, 16, 17)
 - Answers to Practical: [Hierarchical learning](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture8.pdf) (18/3)
-- Programming practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8.ipynb) (21/3; 23/3; 24/3)
+- [Lecture slides](lecture_slides/simlang2021_lecture8.pdf) (Mar 18)
+- Programming practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8.ipynb) (Mar 21, 23, 24)
 - Answers to Practical: [Convergence to the prior](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab8_answered.ipynb)
 
 
 ### 9. Biological and cultural evolution together
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture9.pdf) (25/3)
-- Programming practical: [Co-evolutionary modelling](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab9.ipynb) (28/3; 30/3; 31/3)
+- [Lecture slides](lecture_slides/simlang2021_lecture9.pdf) (Mar 25)
+- Programming practical: [Co-evolutionary modelling](https://github.com/centre-for-language-evolution/simlang2021/blob/master/lab9.ipynb) (Mar 28, 30, 31)
 
 
 ### 10. This view of language
 
 - Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/simlang2021_lecture10.pdf) (1/4)
+- [Lecture slides](lecture_slides/simlang2021_lecture10.pdf) (Apr 1)
 
 
 ## Re-use

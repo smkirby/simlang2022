@@ -1,9 +1,7 @@
 ---
-title: Week 2 lab
+title: Lab 1
 description: Introduction to python
 ---
-
-# The plan for week 2 labs
 
 In this first lab we'll show you how to access the noteable server to work on code, how to import code from github to noteable, and then by working through the first notebook you'll learn the basics of python. If that all sounds a bit complicated, don't worry, it's fairly simple and we'll talk you through  it step by step here. And if you can't get it to work or have questions, we are available to help you in the drop-in labs on Teams.
 
@@ -14,16 +12,12 @@ To do that:
 
 1. Go to the Simulating Language page on [Learn](http://www.learn.ed.ac.uk/)
 2. Click on the 'Course Materials' tab on the left
-3. Click on the **Notable** link at the bottom (If you're logged into Learn already, you can try [this link](https://www.learn.ed.ac.uk/webapps/osc-BasicLTI-BB5d1b15b77a8ac/tool.jsp?course_id=_79953_1&content_id=_5614494_1) to go there directly).
+3. Click on the **Notable** link at the bottom (you may find you need to temporarily allow pop-ups in your browser. I realise this is super annoying, sorry!)
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
     ![noteable screenshot](images/lab1_noteable_screenshot.png)
 5. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
-6. There are four tabs at the top of the screen. Click on the one called 'Assignments'.
-7. In the top box, called 'Released assignments', you should see *SimLang Lab 1*: click on the 'fetch' button next to it
-8. You should now see something like the image below.
-
-![noteable assignments screenshot](images/lab1_assignments.png)
-
+6. There is a button labelled `+GitRepo`. Click on that and enter this web address for the Git Repository URL: `https://github.com/smkirby/simlang2022`. You can leave all the other fields at their defaults or blank.
+7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2022`
 
 # Programming tasks for today's lab
 
@@ -34,4 +28,4 @@ You will now see several notebook files (files whose name ends in ".ipynb"). The
 
 # Re-use
 
-This page was written by Kenny Smith, based on https://github.com/smkirby/SimLang/blob/master/README.md, written by Simon Kirby. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This page was written by Kenny Smith and Simon Kirby, based on https://github.com/smkirby/SimLang/blob/master/README.md, written by Simon Kirby. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

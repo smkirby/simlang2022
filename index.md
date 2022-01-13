@@ -14,7 +14,7 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and [Matt Spike](https://sites.google.com/site/matspike/) is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
+[Simon Kirby](http://www.lel.ed.ac.uk/~simon/) is the lecturer for this course, and Asha Sato is in charge of labs and assessements. The best way to get in touch with us is in one of the drop-in lab sessions, see below, or by messaging on Teams. Please don't email.
 
 ## Structure of the course
 
@@ -54,8 +54,8 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
-- 4th March at noon (released 17th February)
-- 8th April at noon (released 26th March)
+- 10th March at noon (released 17th February)
+- 7th April at noon (released 24th March)
 
 The assignments will be available to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline.
 

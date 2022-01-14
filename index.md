@@ -31,7 +31,7 @@ You should always complete the reading materials and attend/watch the lecture be
 
 ### Lectures
 
-- Lectures are **Fridays 2pm-3pm**
+- Lectures are **Fridays 2.10pm-3pm**
 
 Lectures start in week 1, i.e. the first lecture is Friday 21st January. Lectures will be recorded and appear on Learn. We will aim to have the lectures in person, but if this is not possible they will be held live on Teams.
 
@@ -40,9 +40,9 @@ Lectures start in week 1, i.e. the first lecture is Friday 21st January. Lecture
 You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
 
 You will be assigned a lab group that will take place at one of the following times starting in week 2:
-- Mondays, 11am-1pm
-- Wednesdays, 1pm-3pm
-- Thursdays, 1pm-3pm
+- Mondays, 11.10am-1pm
+- Wednesdays, 1.10pm-3pm
+- Thursdays, 1.10pm-3pm
 
 The drop-in labs happen in person if possible, and if this is not possible on Gather. *You will be assigned a lab time and a tutor during week 1*. You can drop in at any time during your session and ask questions, get help with the programming practicals, or just hang out. You can come as much or as little as you want: we'll be sad if we never see you, but you'll probably be sad if you see us too much.
 

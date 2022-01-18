@@ -45,7 +45,7 @@ Do these three short quizzes which will set you some simple puzzles to do with p
 
 Kruschke, J. K. (2011). *Doing Bayesian Data Analysis: A Tutorial with R and BUGS, 1st Edition.* London: Academic Press.
 
-Kruschke, J. K. (2015). *Doing Bayesian Data Analysis: A Tutorial with R and BUGS, 2nd Edition.* London: Academic Press.
+Kruschke, J. K. (2015). *Doing Bayesian Data Analysis: A Tutorial with R, JAGS and Stan, 2nd Edition.* London: Academic Press.
 
 Stone, J. V. (2013). *Bayes’ Rule: A Tutorial Introduction to Bayesian Analysis.*
 

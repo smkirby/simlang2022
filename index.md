@@ -31,11 +31,13 @@ You should always complete the reading materials and attend/watch the lecture be
 
 ### Lectures
 
-- Lectures are **Fridays 2.10pm-3pm**
+- Lectures are **Fridays 2.10pm-3pm** in F.21, 7 George Square
 
 Lectures start in week 1, i.e. the first lecture is Friday 21st January. Lectures will be recorded and appear on Learn. We will aim to have the lectures in person, but if this is not possible they will be held live on Teams.
 
 ### Practicals and drop-in labs
+
+- Labs are in 4.02, Appleton Tower
 
 You can attempt the programming practical on your own, but we will be providing drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
 

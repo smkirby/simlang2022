@@ -59,7 +59,7 @@ The two assignments involve a mix of practical work and written sections and hav
 - 10th March at noon (released 17th February)
 - 7th April at noon (released 24th March)
 
-The assignments will be available to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline.
+The assignments will be available on Learn to start working on after the last lab that relates to the content being assessed. This will usually be two weeks in advance of the deadline. You will submit your answers on turnitin as usual.
 
 *IMPORTANT* we will not be answering any questions about the assessments! This might seem harsh, but we have learned from painful experience that answering questions about the assessments after they have been handed out causes very serious problems, both in terms of workload for tutors and in terms of being fair for everyone working on the assessments. For example, it strongly disadvantages anyone who starts working on the assessments early, before all the questions have been answered. The only practical and equitable way of dealing with this is to have a perfectly level playing field and not answer any questions until all the assessments have been completed. Think about them more like take-home exams. (N.B. this restriction does not apply if you have a specific adjustment on your student record that allows for clarification on assessment questions. If so, please get in touch with Asha.)
 
@@ -95,7 +95,7 @@ Dates for lectures and labs shown in brackets.
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
   - [Code for generating these videos](lecture_slides/lecture4_videos/lecture4_figures.ipynb)
-- Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4.ipynb) (Feb 14, 16, 17)
+- Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4.ipynb) (Feb 14, 16, 17, 28, Mar 2, 3)
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2022/blob/master/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts
@@ -105,15 +105,15 @@ Dates for lectures and labs shown in brackets.
 ### 5. Communication and the RSA model
 
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
-- [Lecture slides](lecture_slides/lecture5.pdf) (Feb 18)
-- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5.ipynb) (Feb 28, Mar 2, 3)
+- [Lecture slides](lecture_slides/lecture5.pdf) (Mar 4)
+- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5.ipynb) (Mar 7, 9, 10)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2022/blob/master/lab5_answered.ipynb)
 
 ### 6. Compositionality
 
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
-- [Lecture slides](lecture_slides/lecture6.pdf) (Mar 4)
-- Programming practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6.ipynb) (Mar 7, 9, 10)
+- [Lecture slides](lecture_slides/lecture6.pdf) (Mar 11)
+- Programming practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6.ipynb) (Mar 14, 16, 17)
 - Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2022/blob/master/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
@@ -121,29 +121,29 @@ Dates for lectures and labs shown in brackets.
 ### 7. Hierarchical models and learning the prior
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 11)
-- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb) (Mar 14, 16, 17)
+- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 18)
+- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb) (Mar 21, 23, 24)
 - Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
-- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 18)
-- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8.ipynb) (Mar 21, 23, 24)
+- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 25)
+- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8.ipynb) (Mar 28, 30, 31)
 - Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8_answered.ipynb)
 
 
 ### 9. Biological and cultural evolution together
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
-- [Lecture slides](lecture_slides/lecture9.pdf) (Mar 25)
-- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9.ipynb) (Mar 28, 30, 31)
+- [Lecture slides](lecture_slides/lecture9.pdf) (Apr 1)
+- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9.ipynb) (Apr 4, 6, 7 - TBC)
 
 
 ### 10. This view of language
 
 - Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 1)
+- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 8 - TBC)
 
 
 ## Re-use

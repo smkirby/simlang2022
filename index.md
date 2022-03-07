@@ -118,17 +118,17 @@ Dates for lectures and labs shown in brackets.
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 
-### 7. Hierarchical models and learning the prior
+### 7. Hierarchical models and learning the prior **Cancelled due to industrial action**
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 18)
-- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb) (Mar 21, 23, 24)
+- [Lecture slides](lecture_slides/lecture7.pdf) 
+- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7.ipynb)
 - Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2022/blob/master/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
-- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 25)
+- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 18)
 - Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8.ipynb) (Mar 28, 30, 31)
 - Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2022/blob/master/lab8_answered.ipynb)
 

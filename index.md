@@ -137,14 +137,14 @@ Dates for lectures and labs shown in brackets.
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Apr 1)
-- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9.ipynb) (Apr 4, 6, 7 - TBC)
+- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9.ipynb) (Apr 4, 6, 7)
 - Answers to Practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2022/blob/master/lab9_answered.ipynb)
 
 
 ### 10. This view of language
 
 - Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 8 - TBC)
+- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 8)
 
 
 ## Re-use
